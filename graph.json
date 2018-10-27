@@ -7,6 +7,6 @@
     {"size": 10, "score": 0, "id": "Androsynth", "type": "circle"},
     {"size": 10, "score": 1, "id": "Drone", "type": "square"},
     {"size": 10, "score": 1, "id": "Intruder", "type": "triangle"}],
-  "directed": false,
+  "directed": true,
   "multigraph": false
 }
