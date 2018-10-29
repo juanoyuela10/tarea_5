@@ -1313,6 +1313,6 @@
 {"size": 10,  "score": 0, "id": "VICE-RECTORIA ACADEMICA", "type": "circle"},
 {"size": 10,  "score": 0, "id": "CENTRO ESTUDIOS PERIODISMO", "type": "circle"},
 {"size": 10,  "score": 0, "id": "NO ASIGNADO", "type": "circle"}],
-  "directed": true,
+  "directed": false,
   "multigraph": true
 }
