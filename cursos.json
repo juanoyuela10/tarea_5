@@ -2,6 +2,7 @@
   "graph": [],
   "links": [
 {"source":0, "target":1, "periodo":"201510", "n_estud":"22"},
+{"source":0, "target":1, "periodo":"201610", "n_estud":"45"},
 {"source":12, "target":15, "periodo":"201620", "n_estud":"2"}],
   "nodes": [
    {"size": 10,  "score": 0, "id":  "ADMINISTRACION", "type": "circle"},
@@ -23,6 +24,6 @@
 {"size": 10,  "score": 0, "id": "VICE-RECTORIA ACADEMICA", "type": "circle"},
 {"size": 10,  "score": 0, "id": "CENTRO ESTUDIOS PERIODISMO", "type": "circle"},
 {"size": 10,  "score": 0, "id": "NO ASIGNADO", "type": "circle"}],
-  "directed": false,
-  "multigraph": false
+  "directed": true,
+  "multigraph": true
 }
