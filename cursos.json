@@ -107,6 +107,10 @@
 {"source":12, "target":17, "periodo":"201811", "n_estud":"267"},
 {"source":12, "target":25, "periodo":"201811", "n_estud":"302"},
 {"source":12, "target":24, "periodo":"201811", "n_estud":"187"},
+{"source":11, "target":20, "periodo":"201811", "n_estud":"6"},
+{"source":11, "target":21, "periodo":"201811", "n_estud":"18"},
+{"source":11, "target":22, "periodo":"201811", "n_estud":"45"},
+
 {"source":10, "target":26, "periodo":"201812", "n_estud":"16"}],
   "nodes": [
    {"size": 30, "score": 0, "id":  "ADMINISTRACION-E", "type": "circle"},
